@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @codevil2707
-- 👀 I’m interested in coding and solving logical problems
-- 🌱 I’m currently learning swift
-- 💞️ I’m looking to collaborate on swift
-- 📫 How to reach me ...
+🚀 Passionate Swift iOS Developer
+📱 Crafting Intuitive & Seamless User Experiences
+🎓 Bachelor's in Computer Applications
+💡 Mentor & Educator | Empowering Junior Devs
+🌍 Building Apps for a Global Audience
+📍 Simply Entertaining Apps
+✨ Always Learning, Always Coding
+
 
 <!---
 codevil2707/codevil2707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
